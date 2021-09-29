@@ -1,4 +1,18 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# Turkish Accent Espanso Package
 
-For more information, read the [documentation](https://espanso.org/docs/)
+A simple package to convert English characters to Turkish.
+
+| Keyword | Replaced |
+| ------------- |:-------------:|
+| :i            | ı   |
+| :u            | ü     |
+| :s            | ş     |
+| :c            | ç   |
+| :o            | ö     |
+| :g            | ğ     |
+| :I            | İ     |
+| :U            | Ü     |
+| :S            | Ş     |
+| :C            | Ç     |
+| :O            | Ö     |
+| :G            | Ğ     |
